@@ -1,0 +1,2 @@
+# aswRobocode
+A simple bot
